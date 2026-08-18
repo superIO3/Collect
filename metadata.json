@@ -1,0 +1,6 @@
+{
+  "name": "Poker GTO Vision",
+  "description": "Real-time Poker GTO advisor with screen vision, hand equity solver, preflop range charts, and strategic decision coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
